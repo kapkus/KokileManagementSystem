@@ -1,5 +1,5 @@
 ## KokileManagementSystem
-This WinForms desktop application was done for my dad to simplify some work tasks. It operates on local sqlite database file but if placed on network file server, you can just change database path in program to point to it.
+This WinForms desktop application was done for my dad to simplify some work tasks. It operates on local sqlite database file but can be placed on network file server, then you just change database path in program to point to it.
 
 ### Key features
 * perform CRUD operations on database
